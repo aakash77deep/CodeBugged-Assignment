@@ -1,0 +1,6 @@
+path : /content/gdrive/My Drive/Data/
+train : /content/gdrive/My Drive/Data/Images/Train/
+val : /content/gdrive/My Drive/Data/Images/Val/
+
+nc : 1
+names : ['Eyeglasses']
